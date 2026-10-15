@@ -1,0 +1,10 @@
+# Compiled binaries and object files
+huffman
+*.o
+*.out
+
+# Generated compressed files
+*.huff
+
+# macOS
+.DS_Store
