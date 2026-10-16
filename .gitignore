@@ -8,3 +8,7 @@ huffman
 
 # macOS
 .DS_Store
+test.txt
+# Build and test artifacts
+main
+__pycache__/
